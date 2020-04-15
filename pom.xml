@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.heve</groupId>
-	<artifactId>variable.entorno</artifactId>
+	<artifactId>variableentorno</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ServiciOpenShift</name>
 	<description>Servicio para pruebas de despliegue en OpenShift usando variables de entorno</description>
